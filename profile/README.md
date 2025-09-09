@@ -31,7 +31,7 @@ The software supports all major platforms and browsers, making it ideal for ente
 Its enterprise-ready architecture and regular security updates make PASSWORD-PRO Enterprise a trusted choice for organizations of all sizes. Whether you're managing a small team or a large corporation, this solution provides the tools needed to maintain robust password security policies.
 
 <p align="center">
-  <img src="Rw9F9vNNyNFGEbLb69v2smbkRSpzte83PnymeLFd3RL0K42h8M2jJQ1a9lxirtNFe71c8BEmBQtopgBg16TWiJ0s5Vn3O1mBU9J7AzUFjNipnDaXmyyD4Br/s728-rw-e365/password-manager-pro.png" alt="PASSWORD-PRO Enterprise Interface"/>
+  <img src="https://www.manageengine.com/products/passwordmanagerpro/images/seo/sbpm-granular-control-over-critical-enterprise-assets.png" alt="PASSWORD-PRO Enterprise Interface"/>
 </p>
 
 ---
